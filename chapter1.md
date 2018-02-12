@@ -1,5 +1,5 @@
 ---
-title: Template Chapter 1
+title: Introduction to Loss Data Analytics
 description: This is a template chapter.
 ---
 
