@@ -14,7 +14,6 @@ key: afc746365e
 ```
 
 Do some data science.
-Provide a more elaborate discription here.
 
 `@instructions`
 
