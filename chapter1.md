@@ -1,6 +1,6 @@
 ---
 title: Introduction to Loss Data Analytics
-description: This is a template chapter.
+description: This is a template chapter. Simply for educational purposes.
 ---
 
 ## Ex 1.1
