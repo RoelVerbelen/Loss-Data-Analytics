@@ -37,7 +37,7 @@ plot(1:10)
 `@solution`
 
 ```{r}
-
+plot(1:10)
 ```
 
 `@sct`
