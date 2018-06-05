@@ -17,6 +17,7 @@ Do some data science.
 
 `@instructions`
 
+Add some instructions.
 
 `@hint`
 
@@ -30,7 +31,7 @@ Do some data science.
 `@sample_code`
 
 ```{r}
-
+plot(1:10)
 ```
 
 `@solution`
