@@ -17,8 +17,6 @@ Do some data science.
 
 `@instructions`
 
-Add some instructions.
-
 `@hint`
 
 
