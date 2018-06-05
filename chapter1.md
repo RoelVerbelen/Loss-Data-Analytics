@@ -35,7 +35,7 @@ Do some data science.
 `@solution`
 
 ```{r}
-plot(1:10)
+
 ```
 
 `@sct`
