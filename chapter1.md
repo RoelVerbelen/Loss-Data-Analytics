@@ -29,7 +29,8 @@ Do some data science.
 `@sample_code`
 
 ```{r}
-
+# Type your solution below
+sol <- 
 ```
 
 `@solution`
